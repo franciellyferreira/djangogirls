@@ -14,5 +14,3 @@ sudo python3 manage.py runserver
 
 3- Abra o projeto no navegador:
 > http://127.0.0.1:8000
-> Usuário: admin
-> Senha: admin
