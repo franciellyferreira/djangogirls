@@ -2,3 +2,4 @@ src/venv
 src/db.sqlite3
 src/blog/__pycache__
 src/mysite/__pycache__
+src/blog/migrations
