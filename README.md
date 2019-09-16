@@ -4,10 +4,13 @@ Projeto criado seguindo o tutorial do Django Girls (https://tutorial.djangogirls
 Para rodar o projeto no seu computador, siga o passo a passo abaixo:
 
 1- Crie um ambiente virtual:
-cd djangogirls/src
-sudo python3 -m venv venv
-source venv/bin/activate 
-sudo pip3 install -r requirements.txt
+> cd djangogirls/src
+
+> sudo python3 -m venv venv
+
+> source venv/bin/activate
+
+> sudo pip3 install -r requirements.txt
 
 2- Execute o projeto:
 sudo python3 manage.py runserver
