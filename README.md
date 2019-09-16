@@ -13,7 +13,8 @@ Para rodar o projeto no seu computador, siga o passo a passo abaixo:
 > sudo pip3 install -r requirements.txt
 
 2- Execute o projeto:
-sudo python3 manage.py runserver
+
+> sudo python3 manage.py runserver
 
 3- Abra o projeto no navegador:
 > http://127.0.0.1:8000
